@@ -1,2 +1,3 @@
 # my-project
-optional
+This is my first git repository.
+author - Akash kumar
